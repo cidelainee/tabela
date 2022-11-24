@@ -1,8 +1,11 @@
 body{
   background: blue;
 }
-
-td{
+table{
+   background: orange;
+  }
+table tr td{
   border: 2px solid;
-  border-color:black;
+  border-color:red;
+ 
 }
